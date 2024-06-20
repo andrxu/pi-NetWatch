@@ -1,7 +1,7 @@
 # pi-NetWatch
 Harnesses the power of a Raspberry Pi to continuously monitor your home internet. In the event of an outage, it activates a relay to cold reboot the cable modem/router (assuming it is the problem), ensuring your connection is back online quickly.
 
-You may explore other approaches like using an ESP32 or IFTTT device, etc.
+You may explore other approaches like using an ESP32, smart plug or IFTTT device, etc.
 
 ## Net Watch Sequence 
 ![Diagram of Router/Modem Reboot](./Seqence.png)
